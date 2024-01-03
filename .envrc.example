@@ -1,0 +1,3 @@
+export ADDR=
+export DB_CONN_STRING=
+export TEST_DB_CONN_STRING=test:pass@/test_db?parseTime=true&multiStatements=true
